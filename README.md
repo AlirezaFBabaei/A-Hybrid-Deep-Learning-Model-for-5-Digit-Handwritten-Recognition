@@ -11,3 +11,9 @@ To evaluate the model's performance in recognizing 5 handwritten digits, a custo
 * Convolutional neural network for feature extraction with Squeeze and Excitation blocks
 * Stacked Gated Recurrent Unit (GRU) networks for sequence prediction
 * Achieves high accuracy in 5-digit handwritten digit recognition
+
+# Dateset Samples
+![Samples](Dataset_samples.png)
+
+# Architexture
+![Architecture](Architecture.png)
